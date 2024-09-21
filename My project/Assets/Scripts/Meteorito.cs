@@ -8,7 +8,7 @@ public class Meteorito : MonoBehaviour
     public float speed = 10f;
     public Vector2 gravedad = Vector2.down;
     // Start is called before the first frame update
-    void Start()
+    void OnEnable()
     {
         StartCoroutine(Destruir(maxTimeLife));
     }

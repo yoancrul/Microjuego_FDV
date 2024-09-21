@@ -147,6 +147,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9b5849d173f1d44cafaba6339474a7e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxTimeLife: 4
+  maxTimeLife: 3
   speed: 10
   gravedad: {x: 0, y: -1}

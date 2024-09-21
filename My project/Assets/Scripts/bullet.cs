@@ -9,7 +9,6 @@ public class bullet : MonoBehaviour
     public float speed = 1000f;
     public float lifeTime = 3f;
     public Vector3 targetVector;
-    private GameObject tmp;
     public GameObject meteorSPrefab;
     // Start is called before the first frame update
     void Start()
